@@ -1,0 +1,2 @@
+# Stack-
+Practical program 
